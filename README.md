@@ -44,20 +44,23 @@ For hygienic control, one hygienist and a maximum of two trainee dentists can be
 For more complex treatments, a senior dentist and up to two or more trainees may be assigned.
 Appointment slots follow a structured time frame, and rooms must be reserved for each appointment.
 Scenario
+
 Clinic Details: The clinic has 31 employees, including dentists, hygienists, receptionists, and other staff.
+
 Appointments: Appointments are scheduled in 1.5-hour slots, and rooms are assigned for each slot.
+
 Existing System: Currently, the clinic uses Excel sheets for patient and appointment management, leading to delays and inefficiencies.
-Getting Started
+
+
 Database Setup:
 
 Clone this repository.
 Run the SQL scripts to create the database and insert dummy data.
-Running Queries:
 
+Running Queries:
 Execute the provided SQL queries to retrieve data and test the functionality.
+
 Assumptions
 Dummy data for patients, appointments, dentists, and other entities can be added as needed.
 Assumed that each patient has a unique ID and a dentist is assigned per appointment.
-Technologies
-Database: MySQL or any other SQL-based relational database system.
-SQL: For creating, inserting, and querying the database.
+
