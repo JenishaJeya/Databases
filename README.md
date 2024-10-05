@@ -1,4 +1,3 @@
-Project Overview
 This project involves designing and implementing a relational database for DentistX, a hypothetical dental clinic located in Gotham City. The goal is to transition the clinic from using Excel sheets for scheduling and patient management to a structured relational database system. The design includes entities for dentists, patients, appointments, and rooms, with appropriate relationships and data normalization.
 
 Key Tasks
